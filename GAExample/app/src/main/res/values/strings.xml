@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GAExample</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="action_home">Action</string>
+    <string name="main_email">Email</string>
+    <string name="main_password">Password</string>
+    <string name="main_login">Log In</string>
+    <string name="ga_id">UA-68530030-1</string>
+</resources>
